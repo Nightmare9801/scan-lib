@@ -1,6 +1,12 @@
 [package]
 name = "scan-lib"
 version = "0.1.0"
+authors = ["Navonil Mandal"]
+description = "A directory searcher library for ruyyyyyyyyyyyyyyyyst"
+license = "MIT"
+homepage = "https://github.com/Nightmare9801/scan-lib"
+repository = "https://github.com/Nightmare9801/scan-lib"
 edition = "2021"
+readme = "README.md"
 
 [dependencies]
